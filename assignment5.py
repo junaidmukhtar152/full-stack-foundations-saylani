@@ -1,4 +1,4 @@
-# Write a program that prints all the even numbers between 0 and 50.
-for num in range(0, 51):
+# Write a program that prints all the even numbers from 0 to 50.
+for num in range(50):
     if num % 2 == 0:
         print(num)
